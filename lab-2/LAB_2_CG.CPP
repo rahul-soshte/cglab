@@ -6,7 +6,7 @@
 
 int main(void){
 int i;
-	      d
+d
 int gm,gd=DETECT,x,y;
 int j;
 
