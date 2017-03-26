@@ -13,13 +13,13 @@ int x1,y1,x2,y2;
 int dx,dy;
 initgraph(&gd,&gm,"\\TurboC3\\BGI");
 
-printf("Enter the x-coordinate of P1 --------x1 ");
+printf("Enter the x-coordinate of P1 --------x1");
 scanf("%d",&x1);
-printf("Enter the y-coordinate of P1------y1 ");
+printf("Enter the y-coordinate of P1------y1");
 scanf("%d",&y1);
-printf("Enter the x-coordinate of P2 --------x2 ");
+printf("Enter the x-coordinate of P2 --------x2");
 scanf("%d",&x2);
-printf("Enter the y-coordinate of P2-------y2 ");
+printf("Enter the y-coordinate of P2-------y2");
 scanf("%d",&y2);
 
 putpixel(x1,y1,15);
